@@ -1,1 +1,41 @@
-B
+This is a crypto challenge name is Beep Boop 
+
+We have a file name is BeepBoop and when open this file we see that : 
+
+
+beep beep beep beep boop beep boop beep beep boop boop beep beep boop boop beep 
+beep boop boop beep boop beep beep beep beep boop boop beep beep beep beep boop 
+beep boop boop boop boop beep boop boop beep boop boop boop beep beep boop beep 
+beep boop boop beep boop beep boop boop beep boop boop beep beep boop boop boop 
+beep boop boop boop beep beep boop beep beep boop boop beep beep boop beep boop 
+beep boop boop boop boop beep boop beep beep boop boop boop beep boop boop beep 
+beep boop boop beep beep beep beep boop beep boop boop beep boop boop boop beep 
+beep boop boop beep beep boop boop boop beep boop boop boop beep beep boop beep 
+beep beep boop beep boop boop beep boop beep boop boop boop beep beep boop beep 
+beep boop boop beep boop beep boop boop beep boop boop beep beep boop boop boop 
+beep boop boop boop beep beep boop beep beep boop boop beep beep boop beep boop 
+beep boop boop boop boop beep boop beep beep boop boop boop beep boop boop beep 
+beep boop boop beep beep beep beep boop beep boop boop beep boop boop boop beep 
+beep boop boop beep beep boop boop boop beep boop boop boop beep beep boop beep 
+beep beep boop beep boop boop beep boop beep boop boop boop beep beep boop beep 
+beep boop boop beep boop beep boop boop beep boop boop beep beep boop boop boop 
+beep boop boop boop beep beep boop beep beep boop boop beep beep boop beep boop 
+beep boop boop boop boop beep boop beep beep boop boop boop beep boop boop beep 
+beep boop boop beep beep beep beep boop beep boop boop beep boop boop boop beep 
+beep boop boop beep beep boop boop boop beep boop boop boop beep beep boop beep 
+beep boop boop boop boop boop beep boop
+
+So many "beep" and "boop" so see same sound presses of a phone (really the same "0", and "1" pressing), this is actually DTMF (dual tone multi-frequency).
+
+Next, I write the script replace "beep" to 1 and "boop" to zero. After we see in the binary and result: 
+
+fha{rkgrezvangr-rkgrezvangr-rkgrezvangr}
+
+So close to flag . So I guest this is ROT-13 
+
+DONE ! 
+
+
+
+
+
